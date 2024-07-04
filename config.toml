@@ -1,0 +1,4 @@
+listen_on = 8000
+server_name = "example.com:8000"
+public_key = "nw6WVfT6wgCAAJMeziB1gFBwJ4V9LWNjTej3AoYBsgef"
+private_key = "CE9WCHXk6tZEXJdoNFyipj7TusrUUfPw7s4i1S1pbPPy"
